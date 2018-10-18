@@ -1,0 +1,361 @@
+# depslib dependency file v1.0
+1539279207 source:c:\users\aluno.ci-hp\desktop\r3q5\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Horista.h"
+	"Assalariado.h"
+	"SistemaGerenciaFolha.h"
+	"Comissionado.h"
+
+1539277365 source:c:\users\aluno.ci-hp\desktop\r3q5\src\assalariado.cpp
+	"Assalariado.h"
+	"Funcionario.h"
+	<iostream>
+
+1539276284 c:\users\aluno.ci-hp\desktop\r3q5\include\assalariado.h
+	"Funcionario.h"
+
+1539277365 c:\users\aluno.ci-hp\desktop\r3q5\include\funcionario.h
+	<iostream>
+	<string>
+
+1539235076 source:c:\users\aluno.ci-hp\desktop\r3q5\src\comissionado.cpp
+	"Comissionado.h"
+
+1539277533 c:\users\aluno.ci-hp\desktop\r3q5\include\comissionado.h
+	"Funcionario.h"
+
+1539277365 source:c:\users\aluno.ci-hp\desktop\r3q5\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539234084 source:c:\users\aluno.ci-hp\desktop\r3q5\src\horista.cpp
+	"Horista.h"
+
+1539277558 c:\users\aluno.ci-hp\desktop\r3q5\include\horista.h
+	"Funcionario.h"
+
+1539277838 source:c:\users\aluno.ci-hp\desktop\r3q5\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539277797 c:\users\aluno.ci-hp\desktop\r3q5\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
+1539224276 source:c:\users\adm\desktop\programa«√o\r3q5\src\comissionado.cpp
+	"Comissionado.h"
+
+1539266734 c:\users\adm\desktop\programa«√o\r3q5\include\comissionado.h
+	"Funcionario.h"
+
+1539469944 c:\users\adm\desktop\programa«√o\r3q5\include\funcionario.h
+	<iostream>
+	<string>
+
+1539463233 source:c:\users\adm\desktop\programa«√o\r3q5\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539399249 source:c:\users\adm\desktop\programa«√o\r3q5\src\horista.cpp
+	"Horista.h"
+
+1539399118 c:\users\adm\desktop\programa«√o\r3q5\include\horista.h
+	"Funcionario.h"
+
+1539472778 source:c:\users\adm\desktop\programa«√o\r3q5\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539471970 c:\users\adm\desktop\programa«√o\r3q5\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
+1539395148 source:c:\users\adm\desktop\programa«√o\r3q5\src\assalariado.cpp
+	"Assalariado.h"
+	"Funcionario.h"
+	<iostream>
+
+1539460087 c:\users\adm\desktop\programa«√o\r3q5\include\assalariado.h
+	"Funcionario.h"
+
+1539472498 source:c:\users\adm\desktop\programa«√o\r3q5\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Horista.h"
+	"Assalariado.h"
+	"SistemaGerenciaFolha.h"
+	"Comissionado.h"
+
+1539480216 source:c:\users\rebeca\desktop\r3q5\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Horista.h"
+	"Assalariado.h"
+	"SistemaGerenciaFolha.h"
+	"Comissionado.h"
+
+1539469946 c:\users\rebeca\desktop\r3q5\include\funcionario.h
+	<iostream>
+	<string>
+
+1539479362 c:\users\rebeca\desktop\r3q5\include\horista.h
+	"Funcionario.h"
+
+1539460088 c:\users\rebeca\desktop\r3q5\include\assalariado.h
+	"Funcionario.h"
+
+1539471972 c:\users\rebeca\desktop\r3q5\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
+1539266734 c:\users\rebeca\desktop\r3q5\include\comissionado.h
+	"Funcionario.h"
+
+1539395150 source:c:\users\rebeca\desktop\r3q5\src\assalariado.cpp
+	"Assalariado.h"
+	"Funcionario.h"
+	<iostream>
+
+1539224276 source:c:\users\rebeca\desktop\r3q5\src\comissionado.cpp
+	"Comissionado.h"
+
+1539463234 source:c:\users\rebeca\desktop\r3q5\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539478834 source:c:\users\rebeca\desktop\r3q5\src\horista.cpp
+	"Horista.h"
+
+1539480116 source:c:\users\rebeca\desktop\r3q5\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539480218 source:c:\users\adm\desktop\r3q5\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Horista.h"
+	"Assalariado.h"
+	"SistemaGerenciaFolha.h"
+	"Comissionado.h"
+
+1539469946 c:\users\adm\desktop\r3q5\include\funcionario.h
+	<iostream>
+	<string>
+
+1539479364 c:\users\adm\desktop\r3q5\include\horista.h
+	"Funcionario.h"
+
+1539460088 c:\users\adm\desktop\r3q5\include\assalariado.h
+	"Funcionario.h"
+
+1539471972 c:\users\adm\desktop\r3q5\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
+1539266734 c:\users\adm\desktop\r3q5\include\comissionado.h
+	"Funcionario.h"
+
+1539395150 source:c:\users\adm\desktop\r3q5\src\assalariado.cpp
+	"Assalariado.h"
+	"Funcionario.h"
+	<iostream>
+
+1539224276 source:c:\users\adm\desktop\r3q5\src\comissionado.cpp
+	"Comissionado.h"
+
+1539463234 source:c:\users\adm\desktop\r3q5\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539478836 source:c:\users\adm\desktop\r3q5\src\horista.cpp
+	"Horista.h"
+
+1539480244 source:c:\users\adm\desktop\r3q5\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539480218 source:c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Horista.h"
+	"Assalariado.h"
+	"SistemaGerenciaFolha.h"
+	"Comissionado.h"
+
+1539469946 c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\include\funcionario.h
+	<iostream>
+	<string>
+
+1539479364 c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\include\horista.h
+	"Funcionario.h"
+
+1539460088 c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\include\assalariado.h
+	"Funcionario.h"
+
+1539471972 c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
+1539266734 c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\include\comissionado.h
+	"Funcionario.h"
+
+1539395150 source:c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\src\assalariado.cpp
+	"Assalariado.h"
+	"Funcionario.h"
+	<iostream>
+
+1539224276 source:c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\src\comissionado.cpp
+	"Comissionado.h"
+
+1539463234 source:c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539478836 source:c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\src\horista.cpp
+	"Horista.h"
+
+1539480244 source:c:\users\adm\desktop\programa«√o\roteiro 3\r3q5\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539550481 source:c:\users\danielle\desktop\r3q5\src\assalariado.cpp
+	"Assalariado.h"
+	"Funcionario.h"
+	<iostream>
+
+1539460088 c:\users\danielle\desktop\r3q5\include\assalariado.h
+	"Funcionario.h"
+
+1539551721 c:\users\danielle\desktop\r3q5\include\funcionario.h
+	<iostream>
+	<string>
+
+1539224276 source:c:\users\danielle\desktop\r3q5\src\comissionado.cpp
+	"Comissionado.h"
+
+1539550481 c:\users\danielle\desktop\r3q5\include\comissionado.h
+	"Funcionario.h"
+
+1539550481 source:c:\users\danielle\desktop\r3q5\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539478836 source:c:\users\danielle\desktop\r3q5\src\horista.cpp
+	"Horista.h"
+
+1539551793 c:\users\danielle\desktop\r3q5\include\horista.h
+	"Funcionario.h"
+
+1539550885 source:c:\users\danielle\desktop\r3q5\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539550481 c:\users\danielle\desktop\r3q5\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
+1539568766 source:c:\users\danielle\desktop\r3q5\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Horista.h"
+	"Assalariado.h"
+	"SistemaGerenciaFolha.h"
+	"Comissionado.h"
+
+1539568768 source:c:\users\danielle\desktop\quest„o 5\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Horista.h"
+	"Assalariado.h"
+	"SistemaGerenciaFolha.h"
+	"Comissionado.h"
+
+1539551722 c:\users\danielle\desktop\quest„o 5\include\funcionario.h
+	<iostream>
+	<string>
+
+1539551794 c:\users\danielle\desktop\quest„o 5\include\horista.h
+	"Funcionario.h"
+
+1539460088 c:\users\danielle\desktop\quest„o 5\include\assalariado.h
+	"Funcionario.h"
+
+1539550482 c:\users\danielle\desktop\quest„o 5\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
+1539550482 c:\users\danielle\desktop\quest„o 5\include\comissionado.h
+	"Funcionario.h"
+
+1539550482 source:c:\users\danielle\desktop\quest„o 5\src\assalariado.cpp
+	"Assalariado.h"
+	"Funcionario.h"
+	<iostream>
+
+1539224276 source:c:\users\danielle\desktop\quest„o 5\src\comissionado.cpp
+	"Comissionado.h"
+
+1539550482 source:c:\users\danielle\desktop\quest„o 5\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539478836 source:c:\users\danielle\desktop\quest„o 5\src\horista.cpp
+	"Horista.h"
+
+1539550886 source:c:\users\danielle\desktop\quest„o 5\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539820923 source:c:\users\marc\downloads\roteiro3 (1)\roteiro3\quest„o 5\src\assalariado.cpp
+	"Assalariado.h"
+	"Funcionario.h"
+	<iostream>
+
+1539820922 c:\users\marc\downloads\roteiro3 (1)\roteiro3\quest„o 5\include\assalariado.h
+	"Funcionario.h"
+
+1539820922 c:\users\marc\downloads\roteiro3 (1)\roteiro3\quest„o 5\include\funcionario.h
+	<iostream>
+	<string>
+
+1539820923 source:c:\users\marc\downloads\roteiro3 (1)\roteiro3\quest„o 5\src\comissionado.cpp
+	"Comissionado.h"
+
+1539820922 c:\users\marc\downloads\roteiro3 (1)\roteiro3\quest„o 5\include\comissionado.h
+	"Funcionario.h"
+
+1539820923 source:c:\users\marc\downloads\roteiro3 (1)\roteiro3\quest„o 5\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539820923 source:c:\users\marc\downloads\roteiro3 (1)\roteiro3\quest„o 5\src\horista.cpp
+	"Horista.h"
+
+1539820923 c:\users\marc\downloads\roteiro3 (1)\roteiro3\quest„o 5\include\horista.h
+	"Funcionario.h"
+
+1539820923 source:c:\users\marc\downloads\roteiro3 (1)\roteiro3\quest„o 5\src\sistemagerenciafolha.cpp
+	"SistemaGerenciaFolha.h"
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1539820923 c:\users\marc\downloads\roteiro3 (1)\roteiro3\quest„o 5\include\sistemagerenciafolha.h
+	"Funcionario.h"
+
