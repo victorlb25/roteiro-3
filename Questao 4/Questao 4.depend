@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1539547967 source:c:\users\danielle\desktop\questao 4\main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaCorrente.h"
+	"ContaEspecial.h"
+	"Poupanca.h"
+
+1539199772 c:\users\danielle\desktop\questao 4\include\conta.h
+	<string>
+	<iostream>
+
+1539202510 c:\users\danielle\desktop\questao 4\include\contacorrente.h
+	"Conta.h"
+
+1539201866 c:\users\danielle\desktop\questao 4\include\contaespecial.h
+	"ContaCorrente.h"
+
+1539204234 c:\users\danielle\desktop\questao 4\include\poupanca.h
+	"Conta.h"
+
+1539545940 source:c:\users\danielle\desktop\questao 4\src\conta.cpp
+	"Conta.h"
+
+1539456366 source:c:\users\danielle\desktop\questao 4\src\contacorrente.cpp
+	"ContaCorrente.h"
+
+1539456605 source:c:\users\danielle\desktop\questao 4\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539546508 source:c:\users\danielle\desktop\questao 4\src\poupanca.cpp
+	"Poupanca.h"
+
+1539820919 source:c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 4\main.cpp
+	<iostream>
+	"Conta.h"
+	"ContaCorrente.h"
+	"ContaEspecial.h"
+	"Poupanca.h"
+
+1539820920 c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 4\include\conta.h
+	<string>
+	<iostream>
+
+1539820920 c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 4\include\contacorrente.h
+	"Conta.h"
+
+1539820920 c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 4\include\contaespecial.h
+	"ContaCorrente.h"
+
+1539820920 c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 4\include\poupanca.h
+	"Conta.h"
+
+1539821974 source:c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 4\src\contacorrente.cpp
+	"ContaCorrente.h"
+

@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1539471802 source:c:\users\danielle\downloads\lp1(lab)\questão 1\src\animal.cpp
+	"Animal.h"
+
+1539471802 c:\users\danielle\downloads\lp1(lab)\questão 1\include\animal.h
+	<iostream>
+
+1539472622 source:c:\users\danielle\downloads\lp1(lab)\questão 1\main.cpp
+	<iostream>
+	"Animal.h"
+	"Gato.h"
+	"Cachorro.h"
+
+1539471968 c:\users\danielle\downloads\lp1(lab)\questão 1\include\gato.h
+	"Animal.h"
+
+1539471947 source:c:\users\danielle\downloads\lp1(lab)\questão 1\src\gato.cpp
+	"Gato.h"
+
+1539471947 source:c:\users\danielle\downloads\lp1(lab)\questão 1\src\cachorro.cpp
+	"Cachorro.h"
+
+1539471947 c:\users\danielle\downloads\lp1(lab)\questão 1\include\cachorro.h
+	"Animal.h"
+
+1539471747 source:c:\users\danielle\downloads\lp1(lab)\questão 1\src\a.cpp
+	"A.h"
+
+1539471747 c:\users\danielle\downloads\lp1(lab)\questão 1\include\a.h
+
+1539472624 source:c:\users\danielle\desktop\questão 1\main.cpp
+	<iostream>
+	"Animal.h"
+	"Gato.h"
+	"Cachorro.h"
+
+1539471804 c:\users\danielle\desktop\questão 1\include\animal.h
+	<iostream>
+
+1539471970 c:\users\danielle\desktop\questão 1\include\gato.h
+	"Animal.h"
+
+1539471948 c:\users\danielle\desktop\questão 1\include\cachorro.h
+	"Animal.h"
+
+1539471804 source:c:\users\danielle\desktop\questão 1\src\animal.cpp
+	"Animal.h"
+
+1539471948 source:c:\users\danielle\desktop\questão 1\src\cachorro.cpp
+	"Cachorro.h"
+
+1539471948 source:c:\users\danielle\desktop\questão 1\src\gato.cpp
+	"Gato.h"
+

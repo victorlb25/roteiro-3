@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\danielle\downloads\lp1(lab)\questao 2\main.cpp
+	<iostream>
+
+1538234724 source:c:\users\danielle\downloads\lp1(lab)\questao 2\src\circulo.cpp
+	"Circulo.h"
+
+1538234834 c:\users\danielle\downloads\lp1(lab)\questao 2\include\circulo.h
+	"FiguraGeometrica.h"
+	<math.h>
+
+1538234892 source:c:\users\danielle\downloads\lp1(lab)\questao 2\src\retangulo.cpp
+	"Retangulo.h"
+
+1538234905 c:\users\danielle\downloads\lp1(lab)\questao 2\include\retangulo.h
+	"FiguraGeometrica.h"
+
+1538234958 source:c:\users\danielle\downloads\lp1(lab)\questao 2\src\triangulo.cpp
+	"Triangulo.h"
+
+1538234958 c:\users\danielle\downloads\lp1(lab)\questao 2\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1538233351 source:c:\users\danielle\downloads\lp1(lab)\questao 2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1538233351 c:\users\danielle\downloads\lp1(lab)\questao 2\include\figurageometrica.h
+	<string>
+
+1539021356 source:c:\users\aluno.ci-hp\desktop\questao 2\src\circulo.cpp
+	"Circulo.h"
+
+1539021663 c:\users\aluno.ci-hp\desktop\questao 2\include\circulo.h
+	"FiguraGeometrica.h"
+	<math.h>
+
+1538233352 c:\users\aluno.ci-hp\desktop\questao 2\include\figurageometrica.h
+	<string>
+
+1538233352 source:c:\users\aluno.ci-hp\desktop\questao 2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539020831 source:c:\users\aluno.ci-hp\desktop\questao 2\src\retangulo.cpp
+	"Retangulo.h"
+
+1539021518 c:\users\aluno.ci-hp\desktop\questao 2\include\retangulo.h
+	"FiguraGeometrica.h"
+
+1539021430 source:c:\users\aluno.ci-hp\desktop\questao 2\src\triangulo.cpp
+	"Triangulo.h"
+
+1539021518 c:\users\aluno.ci-hp\desktop\questao 2\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1539021430 source:c:\users\aluno.ci-hp\desktop\questao 2\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Retangulo.h"
+	"Circulo.h"
+
+1539021432 source:c:\users\danielle\desktop\questao 2\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Retangulo.h"
+	"Circulo.h"
+
+1538233352 c:\users\danielle\desktop\questao 2\include\figurageometrica.h
+	<string>
+
+1539021520 c:\users\danielle\desktop\questao 2\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1539021520 c:\users\danielle\desktop\questao 2\include\retangulo.h
+	"FiguraGeometrica.h"
+
+1539021664 c:\users\danielle\desktop\questao 2\include\circulo.h
+	"FiguraGeometrica.h"
+	<math.h>
+
+1539021664 source:c:\users\danielle\desktop\questao 2\src\circulo.cpp
+	"Circulo.h"
+
+1538233352 source:c:\users\danielle\desktop\questao 2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1539020832 source:c:\users\danielle\desktop\questao 2\src\retangulo.cpp
+	"Retangulo.h"
+
+1539021432 source:c:\users\danielle\desktop\questao 2\src\triangulo.cpp
+	"Triangulo.h"
+

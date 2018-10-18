@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\danielle\downloads\lp1(lab)\questao 3\main.cpp
+	<iostream>
+
+1538319059 source:c:\users\danielle\downloads\lp1(lab)\questao 3\src\iconta.cpp
+	"IConta.h"
+
+1538319075 c:\users\danielle\downloads\lp1(lab)\questao 3\include\iconta.h
+
+1538321532 source:c:\users\danielle\downloads\lp1(lab)\questao 3\src\conta.cpp
+	"Conta.h"
+
+1538320888 c:\users\danielle\downloads\lp1(lab)\questao 3\include\conta.h
+	<string>
+	"IConta.h"
+
+1538322337 source:c:\users\danielle\downloads\lp1(lab)\questao 3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1538322337 c:\users\danielle\downloads\lp1(lab)\questao 3\include\contaespecial.h
+	"Conta.h"
+
+1539024544 source:c:\users\aluno.ci-hp\desktop\questao 3\src\conta.cpp
+	"Conta.h"
+
+1539023206 c:\users\aluno.ci-hp\desktop\questao 3\include\conta.h
+	<string>
+	"IConta.h"
+
+1538319076 c:\users\aluno.ci-hp\desktop\questao 3\include\iconta.h
+
+1539198302 source:c:\users\aluno.ci-hp\desktop\questao 3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539198302 c:\users\aluno.ci-hp\desktop\questao 3\include\contaespecial.h
+	"Conta.h"
+
+1538319060 source:c:\users\aluno.ci-hp\desktop\questao 3\src\iconta.cpp
+	"IConta.h"
+
+1539025032 source:c:\users\aluno.ci-hp\desktop\questao 3\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+
+1539198484 source:c:\users\danielle\desktop\questao 3\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+	"ContaEspecial.h"
+
+1538319076 c:\users\danielle\desktop\questao 3\include\iconta.h
+
+1539023206 c:\users\danielle\desktop\questao 3\include\conta.h
+	<string>
+	"IConta.h"
+
+1539198304 c:\users\danielle\desktop\questao 3\include\contaespecial.h
+	"Conta.h"
+
+1539024544 source:c:\users\danielle\desktop\questao 3\src\conta.cpp
+	"Conta.h"
+
+1539198304 source:c:\users\danielle\desktop\questao 3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1538319060 source:c:\users\danielle\desktop\questao 3\src\iconta.cpp
+	"IConta.h"
+
+1539820919 source:c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 3\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1539820918 c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 3\include\contaespecial.h
+	"Conta.h"
+
+1539820918 c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 3\include\conta.h
+	<string>
+	"IConta.h"
+
+1539820918 c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 3\include\iconta.h
+
+1539820919 source:c:\users\marc\downloads\roteiro3 (1)\roteiro3\questao 3\src\iconta.cpp
+	"IConta.h"
+
